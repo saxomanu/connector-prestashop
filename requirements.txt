@@ -1,5 +1,5 @@
 html2text
-git+git://github.com/prestapyt/prestapyt@master#egg=prestapyt
+git+https://github.com/prestapyt/prestapyt@master#egg=prestapyt
 bs4
 # tests dependencies
 freezegun
